@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<!-- Activity titles -->
+	<string name="app_name">U ImageCaching Sample</string>
+	<string name="image_grid">Image Grid</string>
+	<!-- Labels -->
+
+	<string name="menu_item_clear_memory_cache">Clear memory cache</string>
+	<string name="menu_item_clear_disc_cache">Clear disc cache</string>
+	<string name="menu_item_pause_on_scroll">Pause on scroll</string>
+	<string name="menu_item_pause_on_fling">Pause on fling</string>
+
+	<!-- Content descriptions -->
+	<string name="descr_image">Image</string>
+
+</resources>
